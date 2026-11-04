@@ -1,0 +1,6 @@
+{
+  "name": "Aperture & Grain Photo Studio",
+  "description": "Editorial, fashion, and commercial photography studio featuring portfolio showcases, studio rentals, and online session booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
